@@ -9,5 +9,5 @@ This project is an educational prototype of a CRUD (Create Read Update and Delet
 * Gonzalo Ciancio - Estudiante - 
 * Stefano Merendino - Estudiante - 
 * Velentin Villar - Estudiante - 
-* Luis Manterola - Estudiante  
+* Cristian Tapia - Estudiante  
  
